@@ -1,0 +1,36 @@
+Advantages:
+	Object creation get reduces
+	memory usage is reduced
+	reusable code purpose 
+ 
+inheritance
+	single inheritance
+	multiple inheritance
+	multilevel inheritance
+	Hierarchical inheritance
+	hybrid inheritance
+	
+single:
+	one parent class to one child class
+	parent class --> support to child
+multiple inheritance
+	more then one parent class accessed by one child class not possible in
+	java class, overcome with interface
+	
+	
+	
+multi -level inheritance
+	level by level inheritance
+	
+	grandparent-->parent-->child
+one parent class accessed by one child class 
+	- which one accessed by another one child class
+	
+	
+polymorphism
+	Task implement in many ways/Execting methods in  more then one form
+	
+	types
+	-method overloading(compile time polymarpism/static binding/static polymophism/early binding)
+	-method overriding(lateral binding)
+	
